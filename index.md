@@ -1,9 +1,23 @@
-## Welcome to GitHub Pages
+## Ingo von Maurich
+**Principal Security Software Architect at NXP Semiconductors Germany** 
 
-You can use the [editor on GitHub](https://github.com/ingovm/ingovm.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am working as Principal Security Software Architect at NXP Semiconductors Germany in the Competence Center Crypto & Security where I am delivering security software IP for various NXP products.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before joining NXP I was a research associate and PhD candidate at the Department of Electrical Engineering and Information Sciences at Ruhr-Universität Bochum with Dr. Tim Güneysu and Dr. Christof Paar. My research focused on the secure and efficient implementation of post-quantum cryptography on embedded systems (microcontrollers and FPGAs). 
 
+### Links
+
+[PhD thesis "Efficient implementation of code- and hash-based cryptography"](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/year/2017/docId/5306)
+
+[Classic McEliece is a submission to NIST's Post-Quantum Cryptography Standardization Project where I am involved](https://csrc.nist.gov/projects/post-quantum-cryptography)
+
+[DBLP](https://dblp.uni-trier.de/pid/05/10085.html)
+
+[LinkedIn](https://de.linkedin.com/in/ingovonmaurich)
+
+[Old RUB university website](https://www.seceng.ruhr-uni-bochum.de/chair/staff/Ingo_von_Maurich/)
+
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -24,14 +38,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ingovm/ingovm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--->
