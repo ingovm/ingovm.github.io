@@ -1,4 +1,4 @@
-## Principal Security Software Architect at NXP Semiconductors Germany
+## Principal Security Software Architect - NXP Semiconductors Germany
 
 I am working as Principal Security Software Architect at NXP Semiconductors Germany in the Competence Center Crypto & Security where I am delivering security software IP for various NXP products.
 
@@ -6,9 +6,9 @@ Before joining NXP I was a research associate and PhD candidate at the Departmen
 
 ### Links
 
-[PhD thesis "Efficient implementation of code- and hash-based cryptography"](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/year/2017/docId/5306)
-
 [Classic McEliece is a submission to NIST's Post-Quantum Cryptography Standardization Project where I am involved](https://csrc.nist.gov/projects/post-quantum-cryptography)
+
+[PhD thesis "Efficient implementation of code- and hash-based cryptography"](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/year/2017/docId/5306)
 
 [DBLP](https://dblp.uni-trier.de/pid/05/10085.html)
 
