@@ -13,6 +13,8 @@ Before joining NXP I was a research associate and PhD candidate at the Departmen
 
 [DBLP](https://dblp.uni-trier.de/pid/05/10085.html)
 
+[Google Scholar](https://scholar.google.de/citations?user=hac56VQAAAAJ)
+
 [LinkedIn](https://de.linkedin.com/in/ingovonmaurich)
 
 [Old RUB university website](https://www.seceng.ruhr-uni-bochum.de/chair/staff/Ingo_von_Maurich/)
