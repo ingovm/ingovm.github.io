@@ -1,5 +1,4 @@
-## Ingo von Maurich
-**Principal Security Software Architect at NXP Semiconductors Germany** 
+## Principal Security Software Architect at NXP Semiconductors Germany** 
 
 I am working as Principal Security Software Architect at NXP Semiconductors Germany in the Competence Center Crypto & Security where I am delivering security software IP for various NXP products.
 
