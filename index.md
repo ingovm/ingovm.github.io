@@ -16,7 +16,7 @@ Before joining NXP I was a research associate and PhD candidate at the Departmen
 
 [LinkedIn](https://de.linkedin.com/in/ingovonmaurich)
 
-[Old RUB university website](https://www.seceng.ruhr-uni-bochum.de/chair/staff/Ingo_von_Maurich/)
+[RUB university website](https://www.seceng.ruhr-uni-bochum.de/chair/staff/Ingo_von_Maurich/)
 
 <!---
 ### Markdown
