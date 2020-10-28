@@ -6,7 +6,7 @@ Before joining NXP I was a research associate and PhD candidate at the Departmen
 
 ### Links
 
-[Classic McEliece is a submission to NIST's Post-Quantum Cryptography Standardization Project where I am involved](https://csrc.nist.gov/projects/post-quantum-cryptography)
+[Classic McEliece: our submission to NIST's Post-Quantum Cryptography Standardization Project](https://csrc.nist.gov/projects/post-quantum-cryptography)
 
 [PhD thesis "Efficient implementation of code- and hash-based cryptography"](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/year/2017/docId/5306)
 
