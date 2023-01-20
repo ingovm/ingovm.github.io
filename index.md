@@ -1,14 +1,14 @@
 ## Principal Security Software Architect - NXP Semiconductors Germany
 
-I am a Principal Security Software Architect at NXP Semiconductors' Competence Center Crypto & Security.
+I am a Principal Security Software Architect in the Competence Center Crypto & Security at NXP Semiconductors.
 
-Before joining NXP in 2015 I was a research associate and a PhD candidate at the Department of Electrical Engineering and Information Sciences at Ruhr-Universität Bochum with Dr. Tim Güneysu and Dr. Christof Paar. My research focused on secure and efficient implementation of post-quantum cryptography on embedded systems (microcontrollers and FPGAs). 
+Before joining NXP in 2015 I was a research assistant and a Ph.D. student at the Department of Electrical Engineering and Information Sciences at the Ruhr-Universität Bochum with Dr. Tim Güneysu and Dr. Christof Paar. My research focused on secure and efficient implementation of post-quantum cryptography on embedded systems (microcontrollers and FPGAs). 
 
-### Links
+### Related Links
 
 [Classic McEliece](https://classic.mceliece.org/): our submission to [NIST's Post-Quantum Cryptography Standardization Project](https://csrc.nist.gov/projects/post-quantum-cryptography)
 
-[PhD thesis "Efficient implementation of code- and hash-based cryptography"](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/year/2017/docId/5306)
+[Thesis "Efficient implementation of code- and hash-based cryptography"](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/year/2017/docId/5306)
 
 [DBLP](https://dblp.uni-trier.de/pid/05/10085.html)
 
