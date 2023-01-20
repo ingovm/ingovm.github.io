@@ -4,7 +4,7 @@ I am a Principal Security Software Architect in the Competence Center Crypto & S
 
 Before joining NXP in 2015 I was a research assistant and a Ph.D. student at the Department of Electrical Engineering and Information Sciences at the Ruhr-Universität Bochum with Dr. Tim Güneysu and Dr. Christof Paar. My research focused on secure and efficient implementation of post-quantum cryptography on embedded systems (microcontrollers and FPGAs). 
 
-### Related Links
+### Related links
 
 [Classic McEliece](https://classic.mceliece.org/): our submission to [NIST's Post-Quantum Cryptography Standardization Project](https://csrc.nist.gov/projects/post-quantum-cryptography)
 
@@ -16,7 +16,7 @@ Before joining NXP in 2015 I was a research assistant and a Ph.D. student at the
 
 [LinkedIn](https://de.linkedin.com/in/ingovonmaurich)
 
-[My former RUB university website](https://www.seceng.ruhr-uni-bochum.de/chair/staff/Ingo_von_Maurich/)
+[My former RUB university website](https://informatik.rub.de/seceng/personen/vonmaurich/)
 
 <!---
 ### Markdown
